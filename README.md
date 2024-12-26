@@ -5,13 +5,13 @@
 - 📫 How to reach me thiruppathithiru06@gmail.com
 
 - 🛠️ Skills
-Java
-Spring Framework (Spring Boot, Spring MVC)
-Hibernate
-MySQL
-Git & GitHub
-JavaScript
-HTML/CSS
+- Java
+- Spring Framework(Spring Boot)
+- Hibernate
+- MySQL
+- Git & GitHub
+- JavaScript
+- HTML5/CSS
 
 <!---
 bhuvithiru2003/bhuvithiru2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
